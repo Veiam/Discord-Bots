@@ -4,6 +4,8 @@
 
 Customizable Discord Alarm Bot for all your questing needs.
 
+*I created this for personal usage with my friends but all functions can be customized and configured to run anywhere.
+
 ## Commands:
 
 ### !Quest
@@ -27,5 +29,3 @@ Host can ping everyeone to start if everyhas joined.
 ### !Clear
 Clear the ongoing quest if active. Only the owner and admin can perform this action.
 
-Note
-I created this for personal usage with my friends but all functions can be customized and configured to run anywhere.

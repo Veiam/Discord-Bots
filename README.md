@@ -1,4 +1,3 @@
-Collection of Discord Bots made for personal usages in my private servers.
 ## Qwest
 
 ![image](https://user-images.githubusercontent.com/8741265/128458635-122c725f-a980-48be-bc2e-0169f825afb5.png)

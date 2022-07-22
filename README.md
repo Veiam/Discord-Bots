@@ -1,5 +1,4 @@
 ## Qwest
-
 ![image](https://user-images.githubusercontent.com/8741265/128458635-122c725f-a980-48be-bc2e-0169f825afb5.png)
 
 Customizable Discord Alarm Bot for all your questing needs.
@@ -30,9 +29,6 @@ Host can ping everyeone to start if everyhas joined.
 Clear the ongoing quest if active. Only the owner and admin can perform this action.
 
 ## Amadeus
-
-<img src="https://github.com/Veiam/Discord-Amadeus-Bot/blob/main/%C3%9F.png">
-
 Simple Reaction Roles Bot created for Lost Ark Guild Discord.
 
 ![image](https://user-images.githubusercontent.com/8741265/169428052-fb4ade7a-c5a2-4cc4-a827-97cd8a78623c.png)

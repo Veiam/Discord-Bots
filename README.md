@@ -1,12 +1,8 @@
-## Qwest
-Customizable Discord Alarm Bot for all your questing needs
+## Discord Bots
 
-![image](https://user-images.githubusercontent.com/8741265/128458635-122c725f-a980-48be-bc2e-0169f825afb5.png)
+Collection of Discord Bots made for personal usages in my private servers.
 
-## Amadeus
-Simple Reaction Roles Bot created for Lost Ark Guild Discord.
+## GraphQL
 
-![image](https://user-images.githubusercontent.com/8741265/169428052-fb4ade7a-c5a2-4cc4-a827-97cd8a78623c.png)
-
-
-
+Data-driven applications depend on remote queries that run through APIs. GraphQL—a query language for APIs that was originally built by Facebook—allows developers to choose the kinds of requests they want to make and to receive information on multiple facets of that query in one request. The GraphQL approach to querying across networks can address a wide variety of large-scale development problems.
+Contains GraphQL practice files.
